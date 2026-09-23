@@ -1,7 +1,5 @@
 # 🦠 COVID-19 Tracker
 
-# 🦠 COVID-19 Tracker
-
 A clean and modern **Flutter** application that displays live COVID-19 statistics for the entire world as well as individual countries.
 The app fetches real-time data from a public API, converts the JSON response into structured Dart models, and presents the information 
 through a smooth and user-friendly interface. Users can view global totals (cases, recovered, deaths, active, and critical), 
@@ -12,7 +10,7 @@ in a clean dark theme.
 
 ## 📱 Demo
 
-<video src="covid-19 tracker.mp4" controls width="100%" style="max-width: 720px; border-radius: 12px;">
+<video src="covid 19 tracker.mp4" controls width="100%" style="max-width: 720px; border-radius: 12px;">
   Your browser does not support the video tag.
 </video>
 
