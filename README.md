@@ -10,7 +10,7 @@ in a clean dark theme.
 
 ## 📱 Demo
 
-<video src="covid 19 tracker.mp4" controls width="100%" style="max-width: 720px; border-radius: 12px;">
+<video src="covid-19-tracker.mp4" controls width="100%" style="max-width: 720px; border-radius: 12px;">
   Your browser does not support the video tag.
 </video>
 
